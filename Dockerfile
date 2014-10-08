@@ -8,3 +8,4 @@ RUN apt-get install -y npm
 
 RUN ln -s /usr/bin/nodejs /usr/bin/node
 RUN npm install -g node-inspector
+RUN npm install -g nodemon
