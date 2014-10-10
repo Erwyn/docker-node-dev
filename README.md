@@ -12,3 +12,5 @@ You should have:
 * NodeJs
 * NPM
 * Node-inspector
+* Nodev
+* Node-monkey
